@@ -1,0 +1,9 @@
+C:\Users\wzw\Desktop\计算净现值\计算净现值\bin\Debug\计算净现值.exe.config
+C:\Users\wzw\Desktop\计算净现值\计算净现值\bin\Debug\计算净现值.exe
+C:\Users\wzw\Desktop\计算净现值\计算净现值\bin\Debug\计算净现值.pdb
+C:\Users\wzw\Desktop\计算净现值\计算净现值\obj\Debug\计算净现值.csprojResolveAssemblyReference.cache
+C:\Users\wzw\Desktop\计算净现值\计算净现值\obj\Debug\计算净现值.Form1.resources
+C:\Users\wzw\Desktop\计算净现值\计算净现值\obj\Debug\计算净现值.Properties.Resources.resources
+C:\Users\wzw\Desktop\计算净现值\计算净现值\obj\Debug\计算净现值.csproj.GenerateResource.Cache
+C:\Users\wzw\Desktop\计算净现值\计算净现值\obj\Debug\计算净现值.exe
+C:\Users\wzw\Desktop\计算净现值\计算净现值\obj\Debug\计算净现值.pdb
